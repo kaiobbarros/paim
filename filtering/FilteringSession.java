@@ -22,7 +22,7 @@ public class FilteringSession {
 	 *     -------------------
 	 *
 	 * Mirror border conditions are applied.
-	 */
+	 */ saoihuhsahasihojasijo
 	static public ImageAccess detectEdgeVertical_NonSeparable(ImageAccess input) {
 		int nx = input.getWidth();
 		int ny = input.getHeight();
